@@ -3,3 +3,13 @@
     font-family: Helvetica, "Times New Roman", sans-serif;
 
 }
+
+.first-class {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.second-class {
+    background-color: yellow;
+}
