@@ -1,0 +1,19 @@
+.pink-class {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#numeroDos {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
+
+.pink-class.big-font {
+    font-weight: 500;
+    font-size: larger;
+}
+
+#numeroUno {
+    color: blue;
+    font-size: 36px;
+}
